@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class AlienLogic2 : MonoBehaviour
+    //Exact same code from AlienLogic1
 {
     public TextManager textManager;
     public ScoreManager scoreManager;
